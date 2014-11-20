@@ -1,0 +1,13 @@
+# Site settings
+title: cblp's home
+email: cblp@cblp.su
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cblp.su"
+
+# Links
+twitter_username: cblp_su
+github_username: cblp
+
+# Build settings
+markdown: kramdown
